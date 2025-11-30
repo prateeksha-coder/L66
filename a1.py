@@ -1,6 +1,6 @@
 # Program to find all substring of a string
 
-import math;
+import math
 
 def printPowerSet(set,set_size):
 	
